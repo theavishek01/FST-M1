@@ -5,14 +5,14 @@
         <parameter name="username" value="orange"/>
         <parameter name="password" value="orangepassword123"/>
         <classes>
-<!--            <class name="Activities.Activity1"/>-->
-<!--            <class name="Activities.Activity2"/>-->
-<!--            <class name="Activities.Activity3"/>-->
-<!--            <class name="Activities.Activity4"/>-->
-<!--            <class name="Activities.Activity5"/>-->
-<!--            <class name="Activities.Activity6"/>-->
-<!--            <class name="Activities.Activity7"/>-->
-<!--            <class name="Activities.Activity8"/>-->
+            <class name="Activities.Activity1"/>
+            <class name="Activities.Activity2"/>
+            <class name="Activities.Activity3"/>
+            <class name="Activities.Activity4"/>
+            <class name="Activities.Activity5"/>
+            <class name="Activities.Activity6"/>
+            <class name="Activities.Activity7"/>
+            <class name="Activities.Activity8"/>
             <class name="Activities.Activity9"/>
         </classes>
     </test>
